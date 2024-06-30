@@ -1,0 +1,215 @@
+* {
+  margin: 0;
+}
+body {
+  font-family: "Epilogue", sans-serif;
+}
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+.flex1 {
+  flex: 1;
+}
+
+.header {
+  height: 77px;
+}
+
+.container-1 {
+  background-color: white;
+  justify-content: space-between;
+  padding: 24px 42px;
+  height: 444;
+}
+.container-left {
+  background-color: white;
+  justify-content: space-evenly;
+}
+.text-1 {
+  font-size: 20px;
+  font-weight: 600;
+}
+.text-2 {
+  font-size: 68px;
+  font-weight: 600;
+}
+.text-3 {
+  font-size: 17px;
+}
+.container-contact {
+  font-size: 20px;
+  background-color: black;
+  padding: 20px 30px;
+  color: azure;
+  border: 1px solid black;
+  font-weight: 550;
+  margin-top: 5px;
+}
+.container-right {
+  background-color: white;
+}
+.container-1-image {
+  width: 480px;
+  border-radius: 10px;
+}
+.container-2 {
+  padding: 42px 62px;
+}
+.brand-logos {
+  justify-content: space-between;
+  align-items: center;
+}
+.full-container-3 {
+  padding: 24px 42px;
+  justify-content: space-around;
+}
+.container-Design {
+  height: 429px;
+  width: 395px;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-pics {
+  width: 124px;
+  padding: 10px;
+}
+.rectangle-heading {
+  font-size: 27px;
+  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.rectangle-text {
+  font-weight: 400;
+  font-size: 17px;
+  text-align: center;
+}
+.container-4-heading {
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+  padding: 42px 20px;
+  justify-content: center;
+}
+.container-4-item {
+  height: 419px;
+  justify-content: space-evenly;
+}
+.container-4-photos {
+  margin: 42px 24px;
+}
+.images-container-4 {
+  width: 395px;
+}
+.container-4-text1 {
+  font-size: 20px;
+  font-weight: 600;
+}
+.container-4-text2 {
+  font-size: 17;
+  font-weight: 400;
+}
+.container-photos-1 {
+  justify-content: space-evenly;
+}
+.container-photos-2 {
+  justify-content: space-evenly;
+}
+
+.heading-5 {
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+  padding: 42px 20px;
+  justify-content: center;
+}
+.container-5-boxes {
+  margin: 20px;
+}
+.box-text1 {
+  font-size: 20px;
+  font-weight: 500;
+  padding: 10px 0px;
+}
+.box-text2 {
+  font-size: 17px;
+}
+.box-5-upper {
+  font-size: 23px;
+  font-weight: 600;
+  text-align: center;
+}
+.boxes-5 {
+  background-color: #f3f3f3;
+  height: 330px;
+  padding: 42px;
+  justify-content: space-evenly;
+  margin: 20px;
+}
+.Client {
+  width: 50px;
+  padding-right: 20px;
+  height: 50px;
+}
+.container-5-boxes {
+  justify-content: space-evenly;
+}
+.container-6 {
+  height: 300px;
+  padding: 42px 24px 86px 24px;
+  justify-content: space-between;
+  text-align: left;
+  align-items: end;
+  margin-bottom: 80px;
+}
+
+.container-6-right {
+  width: 515px;
+  padding-bottom: 20px;
+}
+.container-6-left {
+  width: 565px;
+  padding-bottom: 50px;
+}
+.container-6-button {
+  width: 195px;
+  border: 1px solid black;
+  background-color: black;
+  color: #f3f3f3;
+  padding: 20px 0px;
+  margin-top: 10px;
+}
+.container-6-header {
+  font-size: 32px;
+  font-weight: 600;
+  padding-top: 30px;
+}
+.container-6-text {
+  font-size: 17px;
+  font-weight: 400;
+  padding: 42px 0px;
+}
+.contact-info {
+  height: 59px;
+  border: none;
+  background-color: #f3f3f3;
+  margin-top: 10px;
+  padding-left: 30px;
+}
+
+.header {
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-options-items {
+  padding-left: 28px;
+}
+.logo-options-items1 {
+  padding-right: 28px;
+  padding-left: 24px;
+}
